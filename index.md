@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my little corner of the internet
 ---
 
-this so I can test ut jekyll md to html renderer
+This was created as part of the DevSecOps course from coursera
